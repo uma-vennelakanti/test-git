@@ -5,3 +5,4 @@ function calculate() {
     return "FeatureB Version";
 }
 This is c-1
+This is c-2
